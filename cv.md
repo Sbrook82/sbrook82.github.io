@@ -1,44 +1,42 @@
 ---
 layout: resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2008-2012`
+__Skidmore College__
+Bachelors | Neuroscience
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016-2018`
+__Temple University__
+Graduate Coursework | Biochemistry & Cell Biology
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+The Harnett Prize in Undergraduate Neuroscience Research, Skidmore College 
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://orcid.org/0000-0003-3344-1884) -->
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2017`
+Tumour-specific PI3K inhibition via nanoparticle-targeted delivery in head and neck squamous cell carcinoma, Nature Communications
 
-`1994`
-Article Title, Journal Title
+`2016`
+P-selectin is a nanotherapeutic delivery target in the tumor microenvironment, Science Translational Medicine
+
+`2015`
+AXL Mediates Resistance to PI3Kα Inhibition by Activating the EGFR/PKC/mTOR Axis in Head and Neck and Esophageal Squamous Cell Carcinomas, Cancer Cell
 
 ### Books
 
-`1994`
-Book Title, Journal Title
+`2018`
+Springer Methods in Molecular Biology: Progranulin, Methods to Study the Role of Progranulin in the Tumor Microenvironment
 
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
