@@ -8,4 +8,4 @@ Life science professional with a background in biomedical research and translati
 
 - Bioinformatics
 - [GitHub Pages](http://laderast.github.io)
-- Photography | Online Portfolio
+- [Photography Portfolio](http://samuelbrookphotography.smugmug.com)
